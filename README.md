@@ -1,2 +1,2 @@
-# spacemax-multipurpose
-Spacemax - Multipurpose
+# spacemax-multipurpose-v1
+Spacemax - Multipurpose V1
